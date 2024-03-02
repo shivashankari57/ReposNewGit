@@ -1,0 +1,1 @@
+Creating my first Git file inside repository.
