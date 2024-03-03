@@ -1,1 +1,2 @@
 Creating my first Git file inside repository.
+updating features in it.
